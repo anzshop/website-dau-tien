@@ -1,0 +1,19 @@
+body{
+    background-color:rbg(200,200,200);
+    color:white;
+    padding:20px;
+    font-family: arial, verdana, sans-serif;
+}
+h1{
+    background-color: Darkcyan;
+    padding: inherit;
+}
+h2{
+    background-color:#ee3e80;
+    padding:inherit;
+}
+p {
+    background-color:white;
+    color:rbg(100,100,90);
+    padding:inherit;
+}
